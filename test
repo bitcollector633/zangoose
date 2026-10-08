@@ -6,8 +6,8 @@
   "version": "1",
   "authors": [
     {
-      "name": "duster",
-      "id": "763541748710244352"
+      "name": "kmmiio99o.dev",
+      "id": "879393496627306587"
     }
   ],
   "semanticColors": {
@@ -358,14 +358,7 @@
     "YELLOW_660": "#e57e94",
     "YELLOW_700": "#e57e94",
     "WHITE_500": "#d6bee2",
-    "WHITE_630": "#a895b5" 
-  },
-  "background": {
-    "url": "https://i.postimg.cc/hvMGd5Ff/monster.jpg"
-    "blur": 0.5,
-    "alpha": 0.25,
-    "size": "cover",
-    "position": "center"
+    "WHITE_630": "#a895b5"
   },
   "plus": {
     "version": "0",
