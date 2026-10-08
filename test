@@ -360,6 +360,14 @@
     "WHITE_500": "#d6bee2",
     "WHITE_630": "#a895b5"
   },
+  },
+  "background": {
+    "url": "https://i.postimg.cc/hvMGd5Ff/monster.jpg"
+    "blur": 0.5,
+    "alpha": 0.25,
+    "size": "cover",
+    "position": "center"
+  },
   "plus": {
     "version": "0",
     "iconPack": "rosiecord-plumpy",
