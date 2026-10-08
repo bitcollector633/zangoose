@@ -378,11 +378,3 @@
   "createdAt": "2025-08-27",
   "previewUrl": "https://raw.githubusercontent.com/kmmiio99o/theme-marketplace/main/themes/approved/tenka-izumo-1756299746614-preview.png"
 }
-  },
-  "background": {
-    "url": "https://i.postimg.cc/hvMGd5Ff/monster.jpg"
-    "blur": 0.5,
-    "alpha": 0.25,
-    "size": "cover",
-    "position": "center"
-  },
